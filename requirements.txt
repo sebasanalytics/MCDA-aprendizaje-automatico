@@ -1,0 +1,17 @@
+# Requisitos para Python 3.11 en macOS (Apple Silicon/Intel)
+# Paquetes científicos compatibles y versiones mínimas seguras
+
+numpy
+pandas
+pingouin
+scikit-learn
+matplotlib
+seaborn
+jupyter
+notebook
+
+# Dimensionalidad y modelos
+umap-learn>=0.5.6
+numba>=0.60
+llvmlite>=0.43
+xgboost
